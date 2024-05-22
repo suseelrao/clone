@@ -1,0 +1,112 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+.header {
+  background: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.hero {
+  background: white;
+  padding: 50px;
+  color: white;
+ background-repeat: no-repeat;
+ background-size: 30%;
+}
+
+.features {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+}
+
+.feature {
+  max-width: 300px;
+}
+
+.feature img {
+  max-width: 100%;
+  height: auto;
+}
+
+.footer {
+  background: #282c34;
+  padding: 20px;
+  color: white;
+}
+.main-head{
+  display: flex;
+  background-color: #282c34;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  margin-top: 2em;
+  color: white;
+}
+*{
+  background-color: #282c34;
+}
+.head-btn{
+  color: white;
+  padding: 1em;
+  border-radius: 40%;
+  
+}
+.head-li{
+  color: white;
+}
+.body-main{
+ color: white; 
+ margin-top: 5em;
+}
+.body-bg{
+  background-color: cadetblue;
+  width: 80%;
+}
+.body-foot{
+  color: white;
+}
+.btn-by{
+  color: white;
+  padding:1em;
+  border-radius: 10%;
+}
+.font{
+  font-size: 90px;
+}
+.font1{
+  font-size: 50px;
+}
+.font2{
+  font-size: 20px;
+  
+}
+
+.body-btn{
+  display: flex;
+  gap:30px;
+  align-items: center;
+  justify-content: center;
+}
+.font3{
+  font-size: 0.7em;
+  color: gray;
+  
+}
+.font4{
+  font-size: 60px;
+  color: white;
+}
+.font5{
+  font-size: 30px;
+  color: white;
+}
